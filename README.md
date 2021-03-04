@@ -1,7 +1,7 @@
 # JS_testi.md
 JS_testi.md
 
-[GitHub](https://github.com/Juhosalmikangas)
+[GitHub sivu](https://github.com/Juhosalmikangas)
 
 REST perusajatus
 
