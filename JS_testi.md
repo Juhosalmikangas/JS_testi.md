@@ -31,3 +31,4 @@ XML on merkintäkielien standardi, joka määrittää tietojen merkintämuodon l
 XML-kieliä käytetään sekä formaattina tiedonvälitykseen järjestelmien välillä että tiedostomuotona dokumenttien tallentamiseen.
 
 
+
